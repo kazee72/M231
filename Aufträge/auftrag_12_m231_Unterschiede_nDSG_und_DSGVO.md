@@ -1,0 +1,10 @@
+# Unterschiede **nDSG** *(CH)* & **DSGVO** *(EU)*
+
+| Aspekt                        | nDSG                                                                                                         | DSGVO                                                                                                               |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Betroffen?                    | Schweizer Unternehmen und Bundabteilungen, die Personendaten bearbeiten.                                     | Alle Unternehmen, die Daten von EU-Bürgern bearbeiten.                                                              |
+| Strafen                       | Bis 250'000CHF                                                                                               | Bis zu 4% des weltweiten Jahresumsatz order 20Mio Euro.                                                             |
+| Datenschutzbeauftragte        | Keine generelle Pflicht. Nur bei regelmässiger umfangreicher Bearbeitung von besonders schützenswerter Daten | Pflicht bei umfangreicher Verarbeitung sensibler Daten oder systematischen Monitoring                               |
+| Meldepflicht bei Verletzungen | Nur bei hohem Risiko für Persönlichket / Grundrechte                                                         | Grundsätzlich innerhalb 72 Stunden. Benachrichtigung  Betroffener bei hohem Risiko.                                 |
+| Profiling                     | Profiling mit hohem Risiko explizit geregelt. Automatisierte Einzelentscheidungen eingeschränkt.             | Umfassende Regelung. Recht auf menschliche Überprüfung bei automatisierten Entscheiden.                             |
+| Welche Daten sind sensibel?   | Personendaten: religiöse Ansichten, Gesundheit,  genetische/biometrische Daten, Strafverfahren               | rassische/ethnische Herkunft, politische Meinungen, religiöse Ansichten, Gesundheit,  genetische/biometrische Daten |
