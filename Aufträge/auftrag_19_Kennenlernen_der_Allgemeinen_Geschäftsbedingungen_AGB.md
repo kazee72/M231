@@ -14,6 +14,7 @@ Sie sorgen dafür, dass Massenverträge für alle gleich funktionieren, wodurch 
 
 AGB regeln, wie ein Dienst genutzt werden darf, während die Datenschutzerklärung erklärt, wie mit persönlichen Daten umgegangen wird.
 
+
 ## 2. Typische Inhalte
 
 - **Vertragsabschluss und Geltungsbereich**
@@ -35,6 +36,7 @@ AGB regeln, wie ein Dienst genutzt werden darf, während die Datenschutzerkläru
 - **Rückgabe**
     - Rückgabebedingungen
     - Rücksendekosten
+
 
 ## Praxisbeispiel (Digitex Galaxus AG)
 
