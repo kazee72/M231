@@ -1,6 +1,6 @@
 # Cookie-Sicherheit - Zusammenfassung
 
-## Teil 1: Szenarien-Analyse (nach Risiko sortiert)
+## Teil 1: Szenarien-Analyse
 
 ### 1. Höchstes Risiko: Session Hijacking (Szenario A)
 
