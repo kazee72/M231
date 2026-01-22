@@ -1,0 +1,45 @@
+domain:       CH
+
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich CH-8021
+address:      Switzerland
+
+contact:      administrative
+name:         SWITCH TLD Administration
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich CH-8021
+address:      Switzerland
+phone:        +41 44 268 15 40
+fax-no:       +41 44 268 15 78
+e-mail:       tld-admin@switch.ch
+
+contact:      technical
+name:         DNS Operations
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich CH-8021
+address:      Switzerland
+
+Domain name:
+sbb.ch
+
+Registrar:
+CSC Corporate Domains, Inc.
+
+251 Little Falls Drive
+US-19808 Wilmington, DE
+United States
+
+First registration date:
+before 1996-01-01
+
+DNSSEC:N
+
+Name servers:
+ns-1254.awsdns-28.org
+ns-1739.awsdns-25.co.uk
+ns-73.awsdns-09.com
+ns-967.awsdns-56.net
+ns.sbb.ch	[91.230.140.140]
