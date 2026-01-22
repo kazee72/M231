@@ -58,3 +58,27 @@ ns.sbb.ch	*[91.230.140.140]*
 
 Das ist der eigene Namenserver von der SBB. Ip -> 91.230.140.140
 
+
+## Visuelle Darstellung
+
+```Mermaid
+graph TB
+    CLIENT[Benutzer]
+    DOMAIN[sbb.ch Domain]
+    DNS[DNS Nameserver<br/>AWS + SBB]
+    
+    VARNISH[Varnish Cache]
+    APACHE[Apache Webserver]
+    BACKEND[Backend<br/> Datenbank]
+    SWITCH[SWITCH<br/>CH Registry]
+
+    SWITCH -->|verwaltet| DOMAIN
+    CLIENT -->|Fragt IP-Adresse| DNS
+    DNS -->|kennt| DOMAIN
+    DNS -.->|gibt IP zurück| CLIENT
+    CLIENT -->|HTTPS Request| VARNISH
+    VARNISH --> APACHE
+    APACHE --> BACKEND
+    BACKEND -.->|Response| CLIENT
+```
+
